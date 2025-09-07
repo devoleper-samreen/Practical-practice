@@ -22,7 +22,7 @@ class Student{
 }
 
 class WorkingStudent: public Student{
-    private:
+    public:
     string companyName;
     float salary;
 
