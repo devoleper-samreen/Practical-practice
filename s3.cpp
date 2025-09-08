@@ -1,9 +1,6 @@
-#include <iostream>
-using namespace std;
+// I have deleted all code
 
-class Array{
-    private:
-    int element[5] = [1,2,3,4,5];
+int a = 5;
+int b = 10;
 
-    
-}
+int sum = a+b;
